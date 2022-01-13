@@ -43,26 +43,54 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 ## Week 2 (7.2. - 11.2.)
 
-### Hands on Markov Chains
+### Monday & Tuesday 
 
-* link??? [n_order_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/n_order_text_generation.ipynb) < text generation from zero-order (pure random) via first-order (probability through quantity) and second-order (markov-chain based on one token) to n-order (markov chain based on n token)
-* link??? [markov_simple.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_simple.ipynb) < a simple ready to use version of n-order markov chains based on n_order_text_generation.ipynb
-* link??? [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb) < next word recommendation via markov chain
-* link??? [markov_basic.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb) < word-level markov chain
-* link??? [markov_n-grams.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_n-grams.ipynb) < word-level markov chain based on n-grams
-* link??? [dictionary_list.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_n-grams.ipynb) < dictionairies & lists...
+#### Hands on Markov Chains
 
-### Hands on RNN/LSTM's
+* set up environment
+* introduction into datasets (oder werden wir das in der ersten woche machen mattis?)
 
-* link??? [Text generation with LSTM]() < notebook
+* notebooks (werden grad von ting überarbeitet):
+  * link??? [n_order_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/n_order_text_generation.ipynb) < text generation from zero-order (pure random) via first-order (probability through quantity) and second-order (markov-chain based on one token) to n-order (markov chain based on n token)
+  * link??? [markov_simple.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_simple.ipynb) < a simple ready to use version of n-order markov chains based on n_order_text_generation.ipynb
+  * link??? [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb) < next word recommendation via markov chain
+  * link??? [markov_basic.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb) < word-level markov chain
+  * link??? [markov_n-grams.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_n-grams.ipynb) < word-level markov chain based on n-grams
+  * link??? [dictionary_list.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_n-grams.ipynb) < dictionairies & lists...
 
-### Hands on GPT-2/3
 
-#### GPT-2
+### Wednesday 
 
-#### Copilot
+#### morning < Artificial Neural Networks presentation
 
-#### AI-Dungeon
+* a basic introduction in ANN's (the most simple with only one hidden layer)
+  * [ANN-in-Keras.ipynb]() + little presentation-slide o.ä. 
+* going step by step over it with Copilot (just as a presentation...)
+  * [Keras-ANN-with-Copilot.py]()
+
+#### afternoon < Hands on Pytorch, (maybe Huggingface) & GPT-2/3, bzw. Transformers
+
+* general presentation about gpt, AI Dungeon, Transformers, Pytorch etc.
+* setting up environment for next day
+
+#### alternativ< Hands on RNN/LSTM's??
+
+* [Text generation with LSTM]() < notebook
+
+### Thursday
+
+#### Hands on GPT-2/3
+
+* [aitextgen]() ??
+* [gpt-2 with huggingface]() ??
+
+### Friday
+
+* finetuning 
+* überarbeitung der eigenen generierten texte 
+* rendern eines eigenen buches...
+
+
 
 ---
 
