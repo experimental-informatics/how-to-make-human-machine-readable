@@ -67,10 +67,12 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
   * [ANN-in-Keras.ipynb]() + little presentation-slide o.ä. 
 * going step by step over it with Copilot (just as a presentation...)
   * [Keras-ANN-with-Copilot.py]()
+* after that - short what is an RNN in comparsion to ANN...
 
 #### afternoon < Hands on Pytorch, (maybe Huggingface) & GPT-2/3, bzw. Transformers
 
 * general presentation about gpt, AI Dungeon, Transformers, Pytorch etc.
+* preparing your dataset for gpt-2
 * setting up environment for next day
 
 #### alternativ< Hands on RNN/LSTM's??
