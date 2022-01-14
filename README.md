@@ -36,8 +36,29 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 ### Hands on Python
 
-* files
-* ...
+[First book](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_1.ipynb)
+
+[Python: Variables](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_variables.ipynb)
+
+[Python: Loops & Lists](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_loops_lists.ipynb)
+
+[Programmed books 2](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_2.ipynb)
+
+[Python: Booleans, If - Else, While-loop](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_booleans_conditionals.ipynb)
+
+[Python: Strings, Files, Try & Except](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_strings_files_try.ipynb)
+
+[Programmed books 3](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_3.ipynb)
+
+[Python: Functions](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_functions.ipynb)
+
+[Python: Modules](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_modules_pypi.ipynb)
+
+[Programmed books 4](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_4.ipynb)
+
+[Python: Tuples, Dictionaries, Set](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_tuples_dictionaries_set.ipynb)
+
+[Python: Class / OOP](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_class.ipynb)
 
 ---
 
