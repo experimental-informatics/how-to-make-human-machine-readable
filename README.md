@@ -72,8 +72,6 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [Data cleaning and Parsing]() < python method for parsing text as data
 
-[Text analysing]() < how computer understanding text, basic priciple of NLP
-
 [1-order text generation and Probability]() < probability calculation
 
 ### Tuesday 
