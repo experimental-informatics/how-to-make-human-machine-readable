@@ -68,11 +68,11 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 #### Hands on Text as Data
 
-[0-order text generation]() < random word generation, wiederholung von Char, String and List 
+[0-order text generation](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/0-order_text_generation.ipynb) < random word generation, wiederholung von Char, String and List 
 
-[Data cleaning and Parsing]() < python method for parsing text as data
+[Data cleaning and Parsing](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Data_cleaning_and_Parsing.ipynb) < python method for parsing text as data
 
-[1-order text generation and Probability]() < probability calculation
+[1-order text generation and Probability](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/1-order_text_generation.ipynb) < probability calculation
 
 ### Tuesday 
 
