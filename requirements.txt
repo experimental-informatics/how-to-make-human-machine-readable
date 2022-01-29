@@ -1,4 +1,7 @@
 feedparser
 bs4
 numpy
+requests
+wikipedia-api
 nltk
+

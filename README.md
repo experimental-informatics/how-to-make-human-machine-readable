@@ -34,39 +34,51 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 ## Week 1 (31.1. - 4.2.)
 
-### Hands on Python
+### Hands on Jupyter Notebooks
 
-[First book](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_1.ipynb)
+[Introduction](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/Introduction.ipynb)
+
+### Hands on Python
 
 [Python: Variables](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_variables.ipynb)
 
 [Python: Loops & Lists](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_loops_lists.ipynb)
 
-[Programmed books 2](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_2.ipynb)
-
 [Python: Booleans, If - Else, While-loop](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_booleans_conditionals.ipynb)
 
 [Python: Strings, Files, Try & Except](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_strings_files_try.ipynb)
-
-[Programmed books 3](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_3.ipynb)
 
 [Python: Functions](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_functions.ipynb)
 
 [Python: Modules](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_modules_pypi.ipynb)
 
-[Programmed books 4](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_4.ipynb)
-
 [Python: Tuples, Dictionaries, Set](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_tuples_dictionaries_set.ipynb)
 
 [Python: Class / OOP](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_class.ipynb)
+
+#### Hands on Datasets
+
+[dataset-list](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/dataset-list.ms) < some resources of datasets & archives
+
+[scrape-load_textcorpora](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/scrape-load_textcorpora.ipynb) < some basic examples and code-snippets to srape, load and walk through datasets
+
+[scraper_wikipedia](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/scraper_wikipedia.ipynb) < extract text of specific wikipedia articles
+
+#### Coding books with Python
+
+[First book](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_1.ipynb)
+
+[Programmed books 2](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_2.ipynb)
+
+[Programmed books 3](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_3.ipynb)
+
+[Programmed books 4](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_4.ipynb)
 
 ---
 
 ## Week 2 (7.2. - 11.2.)
 
-### Monday
-
-#### Hands on Text as Data
+### Hands on Text as Data
 
 [0-order text generation](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/0-order_text_generation.ipynb) < random word generation, wiederholung von Char, String and List 
 
@@ -74,9 +86,7 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [1-order text generation and Probability](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/1-order_text_generation.ipynb) < probability calculation
 
-### Tuesday 
-
-#### Hands on Markov Chain
+### Hands on Markov Chain
 
 [Markov Chain - Background and knowledge]() < basic knowledge of Markov chain
 
@@ -88,40 +98,22 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [extented knowledge - word based Markov chain]()
 
-### Wednesday 
+### Hands on Artificial Neural Networks (ANN)
 
-#### morning < Artificial Neural Networks presentation
+[ANN-in-Keras.ipynb]() < Dense Neural Network with Keras
 
-* a basic introduction in ANN's (the most simple with only one hidden layer)
-  * [ANN-in-Keras.ipynb]() + little presentation-slide o.ä. 
-* going step by step over it with Copilot (just as a presentation...)
-  * [Keras-ANN-with-Copilot.py]()
+[Keras-ANN-with-Copilot.py]() < step by step with [Copilot](https://copilot.github.com/)
 * after that - short what is an RNN in comparsion to ANN...
 
-#### afternoon < Hands on Pytorch, (maybe Huggingface) & GPT-2/3, bzw. Transformers
+### Hands on Recurrent Neural Networks (RNN) / Long Short Term Memory (LSTM) Networks
 
-* general presentation about gpt, AI Dungeon, Transformers, Pytorch etc.
-* preparing your dataset for gpt-2
-* setting up environment for next day
+[Text generation with LSTM]() < Text generation with RNN/LSTM
+[char RNN PyTorch]()< some Char-RNN's in Pytorch
 
-#### alternativ< Hands on RNN/LSTM's??
+### Hands on GPT-2
 
-* [Text generation with LSTM]() < notebook
-
-### Thursday
-
-#### Hands on GPT-2/3
-
-* [aitextgen]() ??
-* [gpt-2 with huggingface]() ??
-
-### Friday
-
-* finetuning 
-* überarbeitung der eigenen generierten texte 
-* rendern eines eigenen buches...
-
-
+* [aitextgen]() 
+* [gpt-2 with huggingface pipeline]() 
 
 ---
 
@@ -129,34 +121,15 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 **Executing the Notebooks:**
 
-- *You can run, execute and work on the following Notebooks here:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/how-to-make-human-machine-readable/HEAD)
+- *You can run, execute and work on the Notebooks in this repository here:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/how-to-make-human-machine-readable/HEAD)
 
+<!--
 **Folder in KHM-Cloud:**
 
 - *[??Here??](https://wolke.khm.de/LINK?) you can find some material for the seminar*
-
+-->
 ---
-
-#### Anaconda & Jupyter Notebooks
-
-##### Hands on Jupyter Notebooks
-
-* [little-helpers-in-jupyter-notebooks.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/little-helpers-in-jupyter-notebooks.ipynb) < Introduction to Jupyter Notebooks (general info, Installation & Help-Functions)
-
-##### Hands on **Markdown**
-
-* Jupyter-Notebook: [Markdown-basics.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/Markdown-basics.ipynb)
-
----
-
-#### Datasets
-
-* [scraper_wikipedia.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/scraper_wikipedia.ipynb) < extract text of specific wikipedia articles
-* [scrape-load_textcorpora.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/scrape-load_textcorpora.ipynb) < some basic examples and code-snippets to srape, load and walk through datasets
-* [dataset-list.md](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/dataset-list.md) < just some resources of datasets & archives
-
----
-#### Cheat Sheets
+### Cheat Sheets
 
 | Title                       | URL                                                          |
 | --------------------------- | ------------------------------------------------------------ |

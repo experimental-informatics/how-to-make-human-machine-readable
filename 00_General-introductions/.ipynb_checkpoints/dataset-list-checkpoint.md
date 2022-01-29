@@ -1,4 +1,4 @@
-# DATASETS < NEEDS UPGRADE!!!
+# DATASETS
 
 We can say, that the efforts in AI-Algorithms , perhaps, the most major AI breakthroughs in the past 25 years were growing in propotion to the availability of high-quality training datasets.
 
@@ -14,16 +14,41 @@ Today's large AI models are increasingly created by individual companies, such a
 
 The size of state-of-the-art language models is growing by a factor of 10 every year, and the training dataset for GPT-3 consists of nearly 500 billion words from the Internet, largely through web scraping. 
 
+The most of the scrapes coming from Common Crawl and WebText Corpus. In there you'll find material from the following platforms:
+
+![](./data/crawls-gpt.png)
+
 ![moedels-and-datasets](./data/moedels-and-datasets.png)
 
 
 
-## just a tiny list of text-dataset resources
+***Well... the slide above we've showed last year in our programming-textgenerators-seminar.***
 
+***Today it looks like this:***
+![](./data/datasets-today.png)
+
+## just a tiny list of ataset for NLG Tasks
+
+### Multilingual Datasets
+
+* [COVID-QA](https://huggingface.co/datasets/covid_qa_deepset): Question Answering dataset consisting of 2,019 question/answer pairs annotated by volunteer biomedical experts on scientific articles related to COVID-19
+- [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) - A dataset for NLG in dialogue systems in the public transport information domain.
+- [Box-score data](https://github.com/harvardnlp/boxscore-data/) - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - This  shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from  non-aligned data.
+- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) - The repository contains the code along with the required corpora that were used in order to build a system that "learns" how to generate  English biographies for Semantic Web triples.
+- [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) - Computer-generated weather forecasts from weather.gov (US public forecast), along with corresponding weather data.
+- [WebNLG](https://github.com/ThiagoCF05/webnlg) - The enriched version of the WebNLG - a resource for evaluating common NLG tasks,  including Discourse Ordering, Lexicalization and Referring Expression  Generation.
+- [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/) - This dataset gathers 728,321 biographies from wikipedia. It aims at evaluating text generation algorithms.
+- [The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) - The Schema-Guided Dialogue (SGD) dataset consists of over 20k  annotated multi-domain, task-oriented conversations between a human and a virtual assistant.
+- [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains  semantic representations, short, and long descriptions for 51K companies in English.
+- [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG provides resources for natural language generation of restaurant reviews.#
+
+* [Curated list by NLG tasks](https://aclweb.org/aclwiki/Data_sets_for_NLG)
 ---
 
 ### German Text Datasets
 
+* [GermanQuAD](https://www.deepset.ai/germanquad): human-labeled dataset of 13,722 questions and answers
 * [Huge German Corpus (HGC)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/hgc.en.html): A collection of 12.2 million sentences of German newspaper and law  texts. All content has been lemmatized and part-of-speech tagged by  TreeTagger.
 * [3 Million German Sentences](https://www.kaggle.com/rtatman/3-million-german-sentences): 3 million German sentences taken from 2015 newspaper texts.  Non-sentences and non-German text has been removed, and information on  word frequency is also included.
 * [German Recipes Dataset](https://www.kaggle.com/sterby/german-recipes-dataset): 12,190 German recipes taken from [chefkoch.de](https://www.chefkoch.de/). Each document contains information about ingredients, instructions, creation date and more.
@@ -34,7 +59,7 @@ The size of state-of-the-art language models is growing by a factor of 10 every 
 * [COSMOV – Corpora for Social Movement Research](http://www.cosmov.uzh.ch/) gathers corpora on the language of social movements in the German-speaking world and makes them accessible for online analysis.
 * [SUBTLEX-DE](http://crr.ugent.be/subtlex-de/): Word frequencies of 25.4 million words from film and television subtitles.
 * https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data.html: Collection of language resources for different NLP research projects. Datasets range from web-scale pre-processed corpora, distributional thesauri, named entity annotation, semantic and lexical substitution, multi-word and complex word annotations to recordings and acoustic models for speech recognition in German. Our datasets are distributed under CC-BY 4.0 license, i.e. free to use for all, whenever possible
-
+* [Metatext List](https://metatext.io/datasets-list/german-language)
 ---
 
 ### (Free) Online Archives
