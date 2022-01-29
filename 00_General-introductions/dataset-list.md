@@ -27,7 +27,9 @@ The most of the scrapes coming from Common Crawl and WebText Corpus. In there yo
 ***Today it looks like this:***
 ![](./data/datasets-today.png)
 
-## just a tiny list of ataset for NLG Tasks
+[source](https://lifearchitect.ai/models/)
+
+## just a tiny list of datasets for NLG Tasks
 
 ### Multilingual Datasets
 

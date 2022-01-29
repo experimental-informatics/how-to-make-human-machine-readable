@@ -103,12 +103,11 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 [ANN-in-Keras.ipynb]() < Dense Neural Network with Keras
 
 [Keras-ANN-with-Copilot.py]() < step by step with [Copilot](https://copilot.github.com/)
-* after that - short what is an RNN in comparsion to ANN...
 
 ### Hands on Recurrent Neural Networks (RNN) / Long Short Term Memory (LSTM) Networks
 
 [Text generation with LSTM]() < Text generation with RNN/LSTM
-[char RNN PyTorch]()< some Char-RNN's in Pytorch
+[char RNN PyTorch]() < some Char-RNN's in Pytorch
 
 ### Hands on GPT-2
 
@@ -121,7 +120,7 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 **Executing the Notebooks:**
 
-- *You can run, execute and work on the Notebooks in this repository here:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/how-to-make-human-machine-readable/HEAD)
+- *You can run, execute and work on the Notebooks in typing following button:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/how-to-make-human-machine-readable/HEAD)
 
 <!--
 **Folder in KHM-Cloud:**
