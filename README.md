@@ -1,5 +1,3 @@
-# WORK IN PROGRESS...
-
 Notebooks from the Seminar:
 
 # Human Machine Readable < WS21/22
@@ -109,7 +107,7 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 [Text generation with LSTM]() < Text generation with RNN/LSTM
 [char RNN PyTorch]() < some Char-RNN's in Pytorch
 
-### Hands on GPT-2
+### Hands on GPT
 
 * [aitextgen]() 
 * [gpt-2 with huggingface pipeline]() 
