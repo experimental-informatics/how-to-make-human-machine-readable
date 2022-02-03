@@ -62,6 +62,8 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [scraper_wikipedia](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/scraper_wikipedia.ipynb) < extract text of specific wikipedia articles
 
+[clean_datasets](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/clean-token-read.ipynb)
+
 #### Coding books with Python
 
 [First book](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_1.ipynb)
