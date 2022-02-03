@@ -56,7 +56,7 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 #### Hands on Datasets
 
-[dataset-list](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/dataset-list.ms) < some resources of datasets & archives
+[dataset-list](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/dataset-list.md) < some resources of datasets & archives
 
 [scrape-load_textcorpora](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/scrape-load_textcorpora.ipynb) < some basic examples and code-snippets to srape, load and walk through datasets
 
