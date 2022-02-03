@@ -88,15 +88,15 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 ### Hands on Markov Chain
 
-[Markov Chain - Background and knowledge]() < basic knowledge of Markov chain
+[Markov Chain - Background and knowledge](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_0_Background_and_knowledge.ipynb) < basic knowledge of Markov chain
 
-[Character based Markov Chain]() < Character based Markov chain, second order text generation.
+[Markov Chain - Basic (Second Order Text Generation](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_1_Basic_Second_Order.ipynb) < Basic usage of Markov chain with second order text generation.
 
-[N-Order text generation]() < N-Order text generation.
+[Markov Chain - N-order Text Generation](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_2_N-order_Text_Generation.ipynb) < N-Order text generation.
 
-[Markov Chain - OOP]() < Markov Chain based on object oriented programming.
+[Markov Chain - OOP](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_3_Class.ipynb) < Markov Chain based on object oriented programming.
 
-[extented knowledge - word based Markov chain]()
+[Additional - Markov Chain with Image](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_Image.ipynb) Image Generation based on Markov Chain
 
 ### Hands on Artificial Neural Networks (ANN)
 
