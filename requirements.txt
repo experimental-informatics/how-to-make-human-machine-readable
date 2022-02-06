@@ -4,4 +4,6 @@ numpy
 requests
 wikipedia-api
 nltk
-
+keras
+tensorflow
+matplotlib

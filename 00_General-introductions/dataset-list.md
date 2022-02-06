@@ -44,6 +44,8 @@ The most of the scrapes coming from Common Crawl and WebText Corpus. In there yo
 - [The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) - The Schema-Guided Dialogue (SGD) dataset consists of over 20k  annotated multi-domain, task-oriented conversations between a human and a virtual assistant.
 - [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains  semantic representations, short, and long descriptions for 51K companies in English.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG provides resources for natural language generation of restaurant reviews.#
+- [Trump speeches](https://raw.githubusercontent.com/ryanmcdermott/) - 1mb of text data taken from speeches made by Donald Trump at various points in his 2016 campaign for President of the United States
+- [Obama speeches](https://github.com/samim23/obama-rnn)
 
 * [Curated list by NLG tasks](https://aclweb.org/aclwiki/Data_sets_for_NLG)
 ---
