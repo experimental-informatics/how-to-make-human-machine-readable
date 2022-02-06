@@ -106,9 +106,11 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [Text generation with LSTM](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/03_RNN/LSTM-Textgenerator.ipynb) < Text generation with RNN/LSTM
 
-### Hands on GPT-2/3
+### Hands on GPT-?
 
+[HuggingFace Pipeline]()
 
+[aitextgen]()
 
 ---
 
