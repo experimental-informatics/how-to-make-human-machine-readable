@@ -108,9 +108,9 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 ### Hands on GPT-?
 
-[HuggingFace Pipeline]()
+[HuggingFace Pipeline](https://github.com/experimental-informatics/how-to-make-human-machine-readable/tree/master/04_GPT/huggingface-pipeline) < the HuggingFace way to use state-of-the-art NLP-models for inference
 
-[aitextgen]()
+[aitextgen](https://github.com/experimental-informatics/how-to-make-human-machine-readable/tree/master/04_GPT/aitextgen) < Python tool for text-based AI training and generation using GPT-2
 
 ---
 
