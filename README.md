@@ -96,6 +96,8 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [Markov Chain - OOP](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_3_Class.ipynb) < Markov Chain based on object oriented programming.
 
+[Markov Chain - Markovify-library](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_Markovify_Library.ipynb) < Markov Chain based on github repo https://github.com/jsvine/markovify
+
 [Additional - Markov Chain with Image](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_Image.ipynb) Image Generation based on Markov Chain
 
 ### Hands on Artificial Neural Networks (ANN)
