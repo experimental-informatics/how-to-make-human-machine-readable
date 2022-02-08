@@ -104,6 +104,8 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [ANN-in-Keras.ipynb](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/03_ANN/Keras-ANN.ipynb) < Dense Neural Network with Keras
 
++ working with [Copilot](https://copilot.github.com/)
+
 ### Hands on Recurrent Neural Networks (RNN) / Long Short Term Memory (LSTM) Networks
 
 [Text generation with LSTM](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/03_RNN/LSTM-Textgenerator.ipynb) < Text generation with RNN/LSTM
