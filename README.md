@@ -64,6 +64,11 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [clean_datasets](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/clean-token-read.ipynb)
 
+[clean_multiple_files](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/clean_multiple_files.ipynb) < define a function to clean text and apply it to multiple files
+
+[extract_with_pdfplumber](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/extract_with_pdfplumber.ipynb) < extract text from a pdf and remove unwanted parts/ characters
+
+
 #### Coding books with Python
 
 [First book](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/books_1.ipynb)
