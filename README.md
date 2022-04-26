@@ -16,8 +16,6 @@ Online @ BigBlueButton
 
 Academy of Media Arts Cologne
 
-Email: g.trogemann@khm.de, c.heck@khm.de, m.kuhn@khm.de
-
 ### Description
 
 The generation of text by means of deep neural nets (NLG) has spread rapidly. Among other things, text-based dialog systems such as chatbots, assistance systems (Alexa/Siri) or robot journalism are increasingly used in news portals, e-commerce and social media; wherever context-based, natural language or reader-friendly texts are to be generated from structured data. Deep writing techniques have also found their way into the arts and literature with the help of models such as ELMo (Embeddings from Language Models), BERT (Bidirectional Encoder Representations from Transformers) or GPT-2/3 (Generative Pre-Training Transformer).
